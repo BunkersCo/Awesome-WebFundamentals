@@ -38,7 +38,7 @@ et de ce qui est le mieux adapté aux besoins technologiques d'aujourdhui.
 * https://webvr.info/
 * https://experiments.withgoogle.com/webvr
 * https://optimize.google.com
-*
+* https://developers.google.com/speed/pagespeed/
 *
 *
 *
