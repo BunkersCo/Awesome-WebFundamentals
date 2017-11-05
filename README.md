@@ -37,7 +37,7 @@ et de ce qui est le mieux adapté aux besoins technologiques d'aujourdhui.
 * https://github.com/lwe-frodo
 * https://webvr.info/
 * https://experiments.withgoogle.com/webvr
-*
+* https://optimize.google.com
 *
 *
 *
@@ -55,8 +55,8 @@ et de ce qui est le mieux adapté aux besoins technologiques d'aujourdhui.
 * https://developers.google.com/interactive-media-ads/
 * https://firebase.google.com/docs/admob/
 * https://www.betterads.org/standards/
-*
-*
+* https://adwords.google.com/home/#?modal_active=none
+* 
 *
 *
 *
