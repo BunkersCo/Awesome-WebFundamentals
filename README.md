@@ -1,5 +1,10 @@
 # Awesome-WebFundamentals
 
+Tous les outils présents sont utilisés dans l'ensemble de nos projets. 
+Libre à tous d'y ajouter des suggestions.
+Selon les directions des nouvelles tendances 
+et de ce qui est le mieux adapté aux besoins technologiques d'aujourdhui.
+
 ## Google "best of"
 
 ### Tools / Workshop  
