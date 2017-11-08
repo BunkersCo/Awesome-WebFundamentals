@@ -1,11 +1,13 @@
 # Awesome-WebFundamentals
 
-Tous les outils présents sont utilisés dans l'ensemble de nos projets. 
-Libre à tous d'y ajouter des suggestions.
-Selon les directions des nouvelles tendances 
-et de ce qui est le mieux adapté aux besoins technologiques d'aujourdhui.
+Ici débute uy
 
-## Google "best of"
+Ici débute une l;ste regrouypantdes des liens vers des conseils efficace , et des site wevb remplie de contenu pour alimenter vios idÉes et les rendres concrête rapidment et efficacement. outils essentiels, conseils.
+
+La liste n'est pas encore terminé , il me reste beaucoup de "tri"  et il me 
+
+Certainement à tous ceux qui vboudront y contribué.
+
 
 ### Tools / Workshop  
 
@@ -94,8 +96,8 @@ et de ce qui est le mieux adapté aux besoins technologiques d'aujourdhui.
 * https://aframe.io/
 * https://webmaker.org/
 * https://webvr.rocks/
-*
-*
+* https://testpilot.firefox.com/experiments
+* 
 *
 *
 *
