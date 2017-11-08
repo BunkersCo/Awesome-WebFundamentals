@@ -41,6 +41,7 @@ Certainement à tous ceux qui vboudront y contribué.
 * https://experiments.withgoogle.com/webvr
 * https://optimize.google.com
 * https://developers.google.com/speed/pagespeed/
+* https://www.google.com/get/noto/
 *
 *
 *
