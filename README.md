@@ -42,6 +42,7 @@ Certainement à tous ceux qui vboudront y contribué.
 * https://optimize.google.com
 * https://developers.google.com/speed/pagespeed/
 * https://www.google.com/get/noto/
+* https://fonts.google.com/featured
 *
 *
 *
